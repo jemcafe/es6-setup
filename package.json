@@ -1,0 +1,15 @@
+{
+  "name": "es6-setup",
+  "version": "1.0.0",
+  "description": "es6 setup",
+  "main": "src/backend/server.js",
+  "repository": "https://github.com/jemcafe/es6-setup.git",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.0",
+    "path": "^0.12.7"
+  }
+}
